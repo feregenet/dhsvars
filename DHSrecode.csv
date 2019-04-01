@@ -1,0 +1,1177 @@
+Questionnaire, Recode                     , From standard questionnaire to standard recode
+CCIQ71       , CCIR71                     , DHS-VII Core
+HOUSEHOLD    , HOUSEHOLD                  , Household
+QHSECOVER    , RECH0                      , Household cover page
+QHCLUST      , HV001                      , Cluster number
+QHNUMBER     , HV002                      , Household number
+QHREGION     , HV024                      , Region of residence
+QHELIGM      , HV027                      , Eligibility for male interview
+QHINTD       , HV016                      , Day of household interview
+QHINTM       , HV006                      , Month of household interview
+QHINTY       , HV007                      , Year of household interview
+QHINTC       , HV008                      , Date of HH interview (CMC)
+QHINTNUM     , HV018                      , Interviewer number
+QHRESULT     , HV015                      , Result of household interview
+QHVISITS     , HV017                      , Number of household visits
+QHMEMBER     , HV012-defacto/HV013-dejure , Total members in household
+QHWOMEN      , HV010-defacto              , Eligible women in household
+QHMEN        , HV011-defacto              , Eligible men in household
+QHRESP       , HV003                      , Line of household respondent
+QHLANGQ      , HV045A                     , Language of questionnaire
+QHLANGI      , HV045B                     , Language of interview
+QHLANGR      , HV045C                     , Language of respondent
+QHTRANS      , HV046                      , Translator used
+QHSUPERV     , HV030                      , Supervisor number
+QHFEDIT      , HV032                      , Field editor number
+QHOEDIT      , HV031                      , Office editor number
+QHKEYER      , HV019                      , Data entry clerk
+QHNUMDV      , HV044                      , Line number of woman eligible for domestic violence
+QHINTC       , HV008                      , Date of household interview (CMC)
+QHINTCD      , HV008A                     , Date of household interview Century Day Code (CDC)
+QH100        , HV801                      , Start of household interview
+QH100H       , in HV801                   , Start of household interview (hour)
+QH100M       , in HV801                   , Start of household interview (minutes)
+QHWEIGHT     , HV005                      , Household weight (6 decimals)
+QMWEIGHT     , HV028                      , Household weight - male subsample (6 decimals)
+QHSTRATA     , HV022                      , Sampling errors stratum
+QHWLTHF      , HV271                      , Wealth index factor (5 decimals)
+QHWLTHI      , HV270                      , Wealth index quintile
+QHWLTFUR     , HV271A                     , Wealth index factor (5 decimals)
+QHWLTIUR     , HV270A                     , Wealth index quintile
+QHTYPE       , HV025                      , Type of place of residence (rural/urban)
+QHALTIT      , HV040                      , Cluster altitude in meters
+QHELIHEM     , HV027                      , Eligibility for hemoglobin
+QCHL22       , CHL0 (RECHCHL)             , Total de jure children 5-14 in household for child labor
+QHSEC01      , RECH1                      , Household Schedule
+QH01         , HVIDX                      , Line number of member
+QH03         , HV101                      , Relationship to head
+QH04         , HV104                      , Sex of household member
+QH05         , HV102                      , Usual resident
+QH06         , HV103                      , Slept last night
+QH07         , HV105                      , Age of household members
+QH08         , HV140                      , Marital status
+QH09         , HV115                      , Eligibility for female interview
+QH10         , HV118                      , Eligibility for male interview
+QH11         , HV117                      , Child's eligibility for interview
+QH12         , HV111                      , Mother alive
+QH13         , HV112                      , Mother's line number
+QH14         , HV113                      , Father alive
+QH15         , HV114                      , Father's line number
+QH16         , in HV106                   , Ever attended school
+QH17A        , in HV106                   , Level of education attended
+QH17B        , HV107                      , Highest grade completed
+QH18         , HV121                      , Attend school current year
+QH19A        , in HV122                   , Level of education attending
+QH19B        , HV123                      , Grade attending
+QH20         , HV140                      , Birth certificate / registered
+QH26         , HDIS1 (RECHDIS)            , Wear glasses or contact lenses
+QH27         , in HDIS2 (RECHDIS)         , Have difficulty seeing even when wearing glasses or contact lenses
+QH28         , in HDIS2 (RECHDIS)         , Have difficulty seeing (don't wear glasses)
+QH29         , HDIS3 (RECHDIS)            , Wear a hearing aid
+QH30         , in HDIS4 (RECHDIS)         , Have difficulty hearing even when using a hearing aid
+QH31         , in HDIS4 (RECHDIS)         , Have difficulty hearing (don't wear hearing aid)
+QH32         , HDIS5 (RECHDIS)            , Have difficulty communicating using usual language
+QH33         , HDIS6 (RECHDIS)            , Have difficulty remembering or concentrating
+QH34         , HDIS7 (RECHDIS)            , Have difficulty walking or climbing steps
+QH35         , HDIS8 (RECHDIS)            , Have difficulty washing all over or dressing
+ML07I        , HML16 (RECHMH)             , Age corrected from individual questionnaire
+ML07F        , HML17 (RCHHMH)             , Flag for age correction
+MLPREG       , HML18 (RECHMH)             , Pregnancy status from individual questionnaire
+QHSEC02      , RECH2                      , Household Characteristics
+QH101        , HV201                      , Source of drinking water
+QH102        , HV202                      , Source of non-drinking water
+QH103        , HV235                      , Location of source for water
+QH104        , HV204                      , Time to water and back (in minutes)
+QH106        , HV201A                     , Water not available for at least a day
+QH107        , HV237                      , Do anything to water to make safe to drink
+QH108        , HV237A-HV237Z              , What do you usually do to make water safe to drink
+QH109        , HV205                      , Type of toilet facility
+QH110        , HV225                      , Share facilities with other households
+QH111        , HV238                      , Number of households sharing toilet
+QH112        , HV238A                     , Location of toilet facility
+QH113        , HV226                      , Type of cooking fuel
+QH114        , HV241                      , Food cooked in the house / in separate building / outdoors 
+QH115        , HV242                      , Household has separate room used as kitchen
+QH116        , HV216                      , Number of rooms used for sleeping
+QH117        , HV246                      , Livestock/ herds or farm animals
+QH118A       , HV246A                     , Cattle
+QH118B       , HV246B                     , Cows/ bulls
+QH118C       , HV246C                     , Horses / donkeys / mules
+QH118D       , HV246D                     , Goats
+QH118E       , HV246E                     , Sheep
+QH118F       , HV246F                     , Chickens / poultry
+QH119        , HV244                      , Own land usable for agriculture
+QH120        , HV245                      , Hectares for agricultural land
+QH121A       , HV206                      , Electricity
+QH121B       , HV207                      , Radio
+QH121C       , HV208                      , Television
+QH121D       , HV221                      , Non mobile telephone
+QH121E       , HV243E                     , Computer
+QH121F       , HV209                      , Refrigerator
+QH122A       , HV243B                     , Watch
+QH122B       , HV243A                     , Mobile phone
+QH122C       , HV210                      , Bicycle
+QH122D       , HV211                      , Motorcycle or Scooter
+QH122E       , HV243C                     , Animal-drawn cart
+QH122F       , HV212                      , Car or Truck
+QH122G       , HV243D                     , Boat with a motor
+QH123        , HV247                      , Bank account
+QH124        , HV252                      , Frequency of smoking inside house
+QH125        , HV252                      , Interior walls sprayed against mosquitos in past 12 months 
+QH126        , HV253A-HV253Z              , Dwelling sprayed by government/ private company or NGO
+QH127        , HV227                      , Mosquito nets used while sleeping
+QH128        , HML1/HML1A                 , Number of mosquito nets
+QHSEC03      , RECHML                     , Mosquito Nets
+QHCOL3       , HMLIDX                     , Net number
+QH129        , HML3                       , Shown Net
+QH130        , HML4                       , How long ago household obtain net
+QH131        , HML7                       , Net brand/type
+QH132        , HML8                       , Net ever soaked or dipped in chemical since obtained
+QH133        , HML9                       , How long ago was net last soaked or dipped
+QH134        , HML22                      , Obtained net from campaign/ antenatal or immunization visit
+QH135        , HML23                      , Place where net was obtained
+QH136        , HML21                      , Anyone sleep under this net last night
+QH137A       , HMLA                       , Line No. of 1st person who slept under net
+QH137B       , HMLB                       , Line No. of 2nd person who slept under net
+QH137C       , HMLC                       , Line No. of 3rd person who slept under net
+QH137D       , HMLD                       , Line No. of 4th person who slept under net
+QHSEC04      , RECH2                      , Additional household characteristics
+QH139        , HV230A                     , Observed place for handwashing
+QH140        , HV230B                     , Observed presence of water
+QH141        , HV232/HV232B/HBV232Y       , Observed presence of soap/detergent/ash/mud/sand or none
+QH142        , HV213                      , Main material of floor
+QH143        , HV215                      , Main roof material
+QH144        , HV214                      , Main wall material
+QH145        , HV234                      , Test salt for Iodine
+QH146        , HV802 (RECH0)              , End of household interview
+QH146H       , in HV802 (RECH0)           , End of household interview
+QH146M       , in HV802 (RECH0)           , End of household interview
+QBSECOVER    , RECH0                      , Biomarker identification
+QBINTD       , HV807D                     , Day of biomarker interview
+QBINTM       , HV807M                     , Month of biomarker interview
+QBINTY       , HV807Y                     , Year of biomarker interview
+QBVISITS     , HV804                      , Number of visits for biomarker questionnaire
+QBINTC       , HV807C                     , Date of biomarker questionnaire (CMC)
+QBINTCD      , HV807CD                    , Date of biomarker questionnaire Century Day Code (CDC)
+QBSEC01      , RECH6                      , Height/Weight/Hemoglobin (children)
+QB102        , HC0                        , Line number in household schedule
+QB103D       , HC16                       , Day of birth
+QB103M       , imputed HC30 used          , Month of birth
+QB103Y       , imputed HC31 used          , Year of birth
+QB104        , not used                   , Child born in 2010-2015 or later
+QB105        , HC2/in HC13                , Weight in kilograms
+QB105        , in HC13                    , Result of weight measurement
+QB106        , HC3/in HC13                , Height in centimeters
+QB106        , in HC13                    , Result of height measurement
+QB107        , HC15                       , Lying or standing
+QB108        , HC21                       , Fieldworker number (measurer)
+QB109        , not used                   , Born in month of interview or previous 5 months
+QB110        , HC51                       , Line no. of parent/caretaker
+QB112        , HC52                       , Read consent statement for anemia test
+QB113        , HC53/in HC55               , Hemoglobin level (g/dl)
+QB113        , in HC55                    , Result of hemoglobin measurement
+QCCMC        , HC32                       , Child's CMC of birth
+QCCDC        , HC32A                      , Child's Century Day Code (CDC) or birth
+QCFLG        , HC33                       , Date flag for child's date of birth
+QCDBR        , HC32A                      , Imputed day of birth
+QCMBR        , HC30                       , Imputed month of birth
+QCYBR        , HC31                       , Child's year of birth
+QCPC1        , HC4                        , Ht/A Percentile
+QCSD1        , HC5                        , Ht/A Standard deviations
+QCRM1        , HC6                        , Ht/A Percent of ref. median
+QCPC2        , HC7                        , Wt/A Percentile
+QCSD2        , HC8                        , Wt/A Standard deviations
+QCRM2        , HC9                        , Wt/A Percent of ref. median
+QCPC3        , HC10                       , Wt/Ht Percentile
+QCSD3        , HC11                       , Wt/Ht Standard deviations
+QCRM3        , HC12                       , Wt/Ht Percent of ref. median
+QCMLN        , HC60                       , Mother's line number from individual questionnaire
+QCBO         , HC64                       , Birth order of child
+QCBI         , HC63                       , Birth interval
+QCED1        , HC61                       , Mother's highest educational level
+QCED2        , HC62                       , Mother's highest grade at that level
+QCED3        , HC68                       , Mother's highest educ. level (CS for prel. & final report)
+QCSD4        , HC70                       , Ht/A Standard deviations (according to WHO)
+QCSD5        , HC71                       , Wt/A Standard deviations (according to WHO)
+QCSD6        , HC72                       , Wt/Ht Standard deviations (according to WHO)
+QCSD7        , HC73                       , BMI Standard deviations (according to WHO)
+QBSEC02      , RECH5                      , Height/Weight/Hemoglobin (women)
+QB202        , HA0                        , Line number in household schedule
+QB203        , HA50                       , Under age 18
+QB204        , HA60                       , Marital status
+QB205        , HA2/in HA13                , Weight in kilograms
+QB205        , in HA13                    , Result of weight measurement
+QB206        , HA3/in HA13                , Height in centimeters
+QB206        , in HA13                    , Result of height measurement
+QB207        , HA21                       , Fieldworker number
+QB211        , in HA52                    , Consent from respondent (Anemia)
+QB211A       , HA54                       , Currently pregnant
+QB213        , in HA61                    , Consent from respondent (HIV)
+QB213A       , in HA70                    , Fieldworker number HIV test
+QB215        , HA64                       , Consent for additional tests from respondent
+QB216        , HA51                       , Line no. of parent/caretaker
+QB218        , in HA52                    , Consent statement from parent/caretaker (Anemia)
+QB220        , in HA52                    , Consent statement from minor respondent (Anemia)
+QB220A       , HA54                       , Currently pregnant
+QB222        , in HA61                    , Consent statement parent/caretaker (HIV)
+QB222A       , in HA70                    , Fieldworker number HIV test
+QB224        , in HA61                    , Consent statement minor respondent (HIV)
+QB226        , in HA64                    , Consent statement parent/caretaker (additional tests)
+QB228        , in HA64                    , Consent statement minor respondent (additional tests)
+QB231        , HA53/in HA55               , Hemoglobin level (g/dl)
+QB231        , HA55                       , Result of measuring (Hemoglobin)
+QB232        , HA62/in HA63               , Blood sample ID number
+QB232        , HA63                       , Result of measuring (HIV)
+QWCMC        , HA32                       , CMC of birth of woman
+QWFLG        , HA33                       , Date flag for woman's date of birth
+QWMBR        , available from HA32        , Imputed month of birth
+QWYBR        , available from HA32        , Woman's year of birth
+QWSMK        , HA35                       , Respondent smoke practices
+QWPC1        , HA4                        , Ht/A Percentile (resp.)
+QWSD1        , HA5                        , Ht/A Standard deviations (resp.)
+QWRM1        , HA6                        , Ht/A Percent ref. median (resp.)
+QWRM3        , HA12                       , Wt/Ht Percent ref. median (DHS)
+QWRM4        , HA12A                      , Wt/Ht Percent ref. median (Foggarty)
+QWRM5        , HA12B                      , Wt/Ht Percent ref. median (WHO)
+QWSD3        , HA11                       , Wt/Ht Std deviations(resp) DHS
+QWBM         , HA40                       , Body mass index for respondent
+QWRI         , HA41                       , Rohrer's index for respondent
+QWRESI       , HA65                       , Result of individual interview
+QWED1        , HA66                       , Woman's highest educational level
+QWED2        , HA67                       , Woman's highest year of education
+QWED3        , HA68                       , Highest educ. level (CS for prel. & final report)
+QWHIVWGT     , HA69                       , HIV weight (6 decimals)
+QBSEC03      , RECHMA                     , Height/Weight/Hemoglobin (men)
+QB302        , HB0                        , Line number in household schedule
+QB303        , HB50                       , Under age 18
+QB304        , HB60                       , Marital status
+QB305        , HB2/in HB13                , Weight in kilograms
+QB305        , HB13                       , Result of weight measuring
+QB306        , HB3/in HB13                , Height in centimeters
+QB306        , HB13                       , Result of height measuring
+QB307        , HB21                       , Fieldworker number for Height and weight
+QB311        , in HB52                    , Consent statement adult respondent (Anemia)
+QB313        , HB61                       , Consent statement adult respondent (HIV)
+QB313A       , in HB70                    , Fieldworker number for HIV
+QB315        , in HB64                    , Consent statement adult respondent (Additional tests)
+QB316        , HB51                       , Line no. of parent/caretaker
+QB318        , in HB52                    , Consent statement adult/caretaker (Anemia)
+QB320        , in HB52                    , Consent statement to minor respondent (Anemia)
+QB322        , in HB61                    , Consent statement adult/caretaker (HIV)
+QB322A       , in HB70                    , Fieldworker number for HIV
+QB324        , in HB61                    , Consent statement to minor respondent (HIV)
+QB326        , in HB64                    , Consent statement adult/caretaker (Additional tests)
+QB328        , in HB64                    , Consent statement minor adult (Additional tests)
+QB331        , HB53/in HB55               , Hemoglobin level (g/dl)
+QB331        , HB55                       , Result of measuring (Hemoglobin)
+QB332        , HB62/in HB63               , Blood sample ID number
+QB332        , HB63                       , Result of measuring (HIV)
+QMCMC        , HB32                       , CMC of birth of man
+QMFLG        , HB33                       , Date flag for man's date of birth
+QMMBR        , available from HB32        , Imputed month of birth
+QMYBR        , available from HB32        , Man's year of birth
+QMSMK        , HB35                       , Respondent smoke practices
+QMPC1        , HB4                        , Ht/A Percentile (resp.)
+QMSD1        , HB5                        , Ht/A Standard deviations (resp)
+QMRM1        , HB6                        , Ht/A Percent ref. median (resp)
+QMRM3        , HB12                       , Wt/Ht Percent ref. median (DHS)
+QMRM4        , HB12A                      , Wt/Ht Percent ref. median (Foggarty)
+QMRM5        , HB12B                      , Wt/Ht Percent ref. median (WHO)
+QMSD3        , HB11                       , Wt/Ht Std deviations (resp) DHS
+QMBM         , HB40                       , Body mass index for respondent
+QMRI         , HB41                       , Rohrer's index for respondent
+QMRESI       , HB65                       , Result of individual interview
+QMED1        , HB66                       , Man's highest educational level
+QMED2        , HB67                       , Man's highest year of education
+QMED3        , HB68                       , Highest educ. level (CS for prel. & final report)
+QMHIVWGT     , HB69                       , HIV weight (6 decimals)
+INDIVIDUAL   , WOMAN                      , Individual woman’s questionnaire
+QSECOVER     , REC01                      , Individual Identification
+QCLUSTER     , V001                       , Cluster number
+QNUMBER      , V002                       , Household number
+QREGION      , V024/V101                  , Region of residence
+QLOCAL       , V026                       , City\Town\Countryside
+QLINE        , V003                       , Line number of woman
+QINTD        , V016                       , Day of interview
+QINTM        , V006                       , Month of interview
+QINTY        , V007                       , Year of interview
+QINTNUM      , V028                       , Interviewer number
+QRESULT      , V015                       , Result of individual interview
+QVISITS      , V027                       , Total number of visits
+QLANGQ       , V045A                      , Language of questionnaire
+QLANGI       , V045B                      , Language of interview
+QLANGR       , V045C                      , Language of respondent
+QTRANS       , V046                       , Translator used
+QSUPERV      , V030                       , Supervisor number
+QFEDIT       , V031                       , Field editor number
+QOEDIT       , V032                       , Office editor number
+QKEYER       , V806 (REC81)               , Data entry clerk
+QINTC        , V008                       , Date of interview (CMC)
+QINTCD       , V008A                      , Date of interview Century Day Code (CMC)
+QWEIGHT      , V005                       , Sample weight (6 decimals)
+QTYPE        , V025                       , Type of place of residence
+QDWEIGHT     , D005 (RECDV)               , Domestic violence weight (6 decimals)
+QWEIGHT      , V005                       , Sample weight (6 decimals)
+QTYPE        , V025                       , Type of place of residence
+QDWEIGHT     , D005 (RECDV)               , Domestic violence weight (6 decimals)
+QWSEC01      , REC11                      , Respondent's Background
+Q101H        , in V801-REC81              , Start of interview (hour)
+Q101M        , in V801-REC81              , Start of interview (minutes)
+Q102         , V104                       , Time lived in current place of residence
+Q103         , V105                       , Previous place of residence
+Q104         , V105A                      , Province/state lived before moved to place of interview
+Q105M        , V109                       , Month of birth
+Q105Y        , V010                       , Year of birth
+Q106         , V012                       , Current age of
+Q107         , in V106                    , Ever attended school
+Q108         , in V106                    , Highest educational level
+Q109         , V107                       , Highest grade at that level
+Q111         , V155                       , Sentence read
+Q113         , V157                       , Reads newspaper or magazine
+Q114         , V158                       , Listens to radio
+Q115         , V159                       , Watches television
+Q116         , V169A                      , Own a mobile telephone
+Q117         , V169B                      , Use mobile telephone for financial transactions
+Q118         , V170                       , Have a bank or other financial account
+Q119         , in V171A                   , Have ever used the internet
+Q120         , in V171A                   , Have used the internet last 12 months
+Q121         , V171B                      , How often used internet the last month
+Q122         , V130                       , Religion
+Q123         , V131                       , Ethnicity
+Q124         , V167                       , Times away from home for one or more nights in last 12 months
+Q125         , V168                       , Away for more than one month in last 12 months
+Q105C        , V011                       , Date of birth (CMC)
+Q105F        , V014                       , Date flag for A105C
+QWFTOTAL     , AWFACTT                    , All woman factor - total
+QWFTYPE      , AWFACTU                    , All woman factor - urban/rural
+QWFREG       , AWFACTR                    , All woman factor - regional
+QWFEDUC      , AWFACTE                    , All woman factor - educational
+QWFWLTH      , AWFACTW                    , All woman factor - wealth index
+QWSEC2A      , REC22                      , Reproduction
+Q201         , not used                   , Ever given birth
+Q202         , not used                   , Sons or daughters living with
+Q203A        , V202                       , Sons at home
+Q203B        , V203                       , Daughters at home
+Q204         , not used                   , Sons or daughters live away
+Q205A        , V204                       , Sons living elsewhere
+Q205B        , V205                       , Daughters living elsewhere
+Q206         , not used                   , Sons or daughters who died
+Q207A        , V206                       , Boys who died
+Q207B        , V207                       , Girls who died
+Q208         , V208                       , Total children ever born
+QWSEC2B      , REC21                      , Birth History
+Q212         , BIDX                       , Line number of child
+Q213         , B4                         , Sex of child
+Q214         , B0                         , Single or Multiple Birth
+Q215D        , B17                        , Day of birth
+Q215M        , B1                         , Month of birth
+Q215Y        , B2                         , Year of birth
+Q216         , B5                         , Child is still alive
+Q217         , B8                         , Current age of child
+Q218         , B9                         , Child living with respondent
+Q219         , B16                        , Line number in the household
+Q220U        , in B6                      , Age at death (unit)
+Q220N        , in B6                      , Age at death (number)
+Q221         , B15                        , Live birth between births
+Q215C        , B3                         , Date of birth of child (CMC)
+Q215CD       , B18                        , Date of birth of child Century Day Code (CDC)
+Q215F        , B10                        , Date flag for Q216C
+Q220C        , B7                         , Age at death months (imputed)
+Q220F        , B13                        , Date flag for Q220C
+QWSEC2C      , REC82                      , Calendar
+QCAL         , VCAL                       , Calendar
+QWSEC2D      , REC22                      , Reproduction (continued)
+Q222         , V237                       , Birth between last & interview
+Q224         , V208-5 years/V238-3 years  , Births since January 200?
+Q226         , V213                       , Currently pregnant
+Q227         , V214                       , Duration of current pregnancy
+Q228         , in V225                    , Wanted pregnancy at that time
+Q229         , in V225                    , Wanted baby later or not at all
+Q230         , V228                       , Miscarriage/abortion/or stillbirth
+Q231M        , V229                       , Month pregnancy ended
+Q231Y        , V230                       , Year pregnancy ended
+Q234         , V233                       , Months pregnant when pregnancy ended
+Q235         , V234                       , Other such pregnancies
+Q237         , V239                       , Terminated pregnancy before 200?
+Q238M        , V240                       , Month of last non-live birth pregnancy before 200?
+Q238Y        , V241                       , Year of last non-live birth pregnancy before 200?
+Q239U        , in V215                    , Time since last period (unit)
+Q239N        , in V215                    , Time since last period (number)
+Q240         , in V217                    , Knowledge of fertile period
+Q241         , in V217                    , When is the fertile period
+Q242         , V244                       , After birth woman can get pregnant before period returns
+Q226C        , from V214                  , Date of conception (CMC)
+Q227F        , V223                       , Date flag for Q226C
+Q238F        , V227                       , Flag for A238
+QWSEC3A      , REC31                      , Contraceptive Knowledge & Use
+QWSEC31_GRP  , REC31_GROUP                , Contraception listing
+Q301N        , V304A                      , Contraceptive method
+Q301         , V304                       , Heard of method
+QWSEC3B      , REC32                      , Contraceptive Practice
+Q303         , in V312                    , Currently using any method
+Q304         , in V312/V307 (REC31)       , Current contraceptive method
+Q305         , V323                       , Brand name of pills reported
+Q306         , V323A                      , Brand name of condoms reported
+Q307         , V326/V3A07                 , Where sterilization took place
+Q308M        , in V315                    , Month sterilization was performed
+Q308Y        , in V316                    , Year sterilization was performed
+Q309M        , in V315                    , Month started using current method
+Q309Y        , in V316                    , Year started using current method
+Q314         , V302A                      , Ever used a contraceptive method
+Q315         , filter V312                , Current contraceptive method (filter)
+Q316         , in V3A07                   , Source for current method when started
+Q317         , filter V312                , Current contraceptive method
+Q318         , in V3A02                   , Told about side effects
+Q319         , in V3A02                   , Told about side effects when sterilized
+Q320         , V3A03                      , Told about side effects by health or FP worker
+Q321         , V3A04                      , Told how to deal with side effects
+Q322         , V3A05                      , Told about other FP methods
+Q323         , V3A06                      , Told about other FP methods by health or FP worker
+Q324         , filter V312                , Current contraceptive method (filter)
+Q325         , in V326                    , Last source of FP
+Q326         , in V3A00A-V3A00Z           , Know source for FP
+Q327         , V393                       , Visited by FP worker in last 12 months
+Q329         , V394                       , Visited health facility in last 12 months
+Q330         , V395                       , At health facility/told of FP
+Q304N        , V312                       , Current contraceptive method (major method)
+Q309C        , V317                       , Date started using current method (CMC)
+Q309F        , V318                       , Date flag for A309C
+QWSEC04      , REC41                      , Pregnancy and Postnatal Care
+Q403         , MIDX/BIDX                  , Line number
+Q405         , inM10                      , Wanted to get pregnant
+Q406         , inM10                      , Time wanted pregnancy
+Q407U        , inM11                      , Time would have waited (unit)
+Q407N        , inM11                      , Time would have waited (number) Q406N
+Q408         , in M2A-M2Y                 , Received antenatal care for pregnancy
+Q409         , in M2A-M2Y                 , Provider of antenatal care for pregnancy
+Q410         , M57A-M57X                  , Where antenatal care took place
+Q411         , M13                        , Months pregnant at first antenatal visit
+Q412         , M14                        , Antenatal visits during pregnancy
+Q413A        , M42C                       , Antenatal care (Blood pressure)
+Q413B        , M42D                       , Antenatal care (Urine sample)
+Q413C        , M42E                       , Antenatal care (Blood sample)
+Q414         , inM1                       , Tetanus injection during pregnancy
+Q415         , inM1                       , Number of tetanus injections
+Q417         , inM1A                      , Tetanus injections before pregnancy
+Q418         , inM1A                      , Number of tetanus injections before pregnancy
+Q419         , M1D                        , Years ago received last tetanus injection before pregnancy
+Q420         , M45                        , Given iron tablets during pregnancy
+Q421         , M46                        , Number of days took iron tablets
+Q422         , M60                        , Drugs for intestinal parasites
+Q423         , M49A                       , During pregnancy took SP/Fansidar for malaria
+Q424         , ML1 (RECML)                , How many times took SP/Fansidar for malaria
+Q425         , ML2 (RECML)                , Took SP/Fansidar during antenatal visit (Malaria)
+Q426         , M18                        , Size of child at birth
+Q427         , M19A                       , Weighed at birth
+Q428U        , inM19                      , Weight at birth (unit)
+Q428N        , inM19                      , Weight in Kilograms (number)
+Q429         , M3A-M3N                    , Assistance at delivery
+Q430         , M15                        , Place of delivery
+Q431U        , inM61                      , Time spent at place of delivery (unit)
+Q431N        , inM61                      , Time spent at place of delivery (number)
+Q432         , M17                        , Delivery by caesarean section
+Q433         , M17A                       , Timing of decision on caesarean section
+Q434         , in M77                     , Child was put on chest immediately after birth
+Q434A        , in M77                     , Child skin touched respondent bare skin
+Q435         , M62                        , Postnatal check before discharge
+Q436U        , in M63                     , Time first postnatal check respondent after delivery in facility (unit)
+Q436N        , in M63                     , Time first postnatal check respondent after delivery in facility (number)
+Q437         , M64                        , Person performing 1st postnatal checkup at place of delivery
+Q438         , M74                        , First postnatal check on child in facility
+Q439U        , in M75                     , Time first postnatal check on child in facility (unit)
+Q439N        , in M75                     , Time first postnatal check on child in facility (number)
+Q440         , M76                        , Person giving postnatal care to child in facility
+Q441         , in M66                     , Checkup after discharge from place of delivery
+Q442U        , in M67                     , Time checkup on respondent after discharge (unit)
+Q442N        , in M67                     , Time checkup on respondent after discharge (number)
+Q443         , M68                        , Person giving checkup on respondent after discharge
+Q444         , M69                        , Place of checkup on respondent after discharge
+Q445         , M70                        , Postnatal checkup on child within 2 months of discharge
+Q446U        , in M71                     , Time postnatal checkup of child within 2 months of discharge (unit)
+Q446N        , in M71                     , Time postnatal checkup of child within 2 months of discharge (number)
+Q447         , M72                        , Person giving postnatal check on child within 2 months of discharge
+Q448         , M73                        , Place first postnatal checkup on child within 2 months of discharge
+Q449         , M66                        , Respondent received postnatal check after home delivery
+Q450U        , in M67                     , Time respondent received postnatal check after home delivery (unit)
+Q450N        , in M67                     , Time respondent received postnatal check after home delivery (number)
+Q451         , M68                        , Person giving postnatal check on respondent after home delivery
+Q452         , M69                        , Place postnatal check on respondent after home delivery
+Q453         , M70                        , Child received postnatal check after home delivery
+Q454U        , in M71                     , Time postnatal checkup of child after home delivery (unit)
+Q454N        , in M71                     , Time postnatal checkup of child after home delivery (number)
+Q455         , M72                        , Person giving postnatal check on child after home delivery
+Q456         , M73                        , Place postnatal check on child after home delivery
+Q457A        , M78A                       , During first 2 days/health care provider examined the cord
+Q457B        , M78B                       , During first 2 days/health care provider examined temperature
+Q457C        , M78C                       , During first 2 days/health care provider examined signs
+Q457D        , M78E                       , During first 2 days/health care provider counseled breastfeeding
+Q457E        , M78E                       , During first 2 days/health care provider observed breastfeeding
+Q458         , in M6/M7                   , Period returned
+Q459         , in M6/M7                   , Period returned between births
+Q460         , in M6/M7                   , Months without a period
+Q462         , in M8/M9                   , Begun to have sexual intercourse
+Q463         , in M8/M9                   , Months without sexual intercourse
+Q464         , in M4/M5                   , Ever breastfed
+Q466U        , in M34                     , When child put to breast (Unit)
+Q466N        , in M34                     , When child put to breast (Number)
+Q467         , M55                        , Fluid other than breast milk after first 3 days
+Q469         , M4                         , Still breastfeeding
+Q470         , M38                        , Drink in a bottle with nipple
+Q460F        , M28                        , Flag for amenorrhea
+Q463F        , M29                        , Flag for abstinence
+Q466F        , M27                        , Flag for breastfeeding
+QWSEC5       , REC43                      , Health and Vaccinations
+Q502         , HIDX/BIDX                  , Line number in birth history
+Q504         , in H1/in H1A               , Has vaccination card
+Q505         , in H1                      , Ever had vaccination card
+Q507         , in H1/in H1A               , Observation of vaccination card
+Q508B        , H2                         , BCG date
+D508B        , H2D                        , BCG day
+M508B        , H2M                        , BCG month
+Y508B        , H2Y                        , BCG year
+Q508H        , H50                        , Hepatitis B at birth date
+D508H        , H50D                       , Hepatitis B at birth day
+M508H        , H50M                       , Hepatitis B at birth month
+Y508H        , H50Y                       , Hepatitis B at birth year
+Q508P0       , H0                         , Oral Polio at birth date
+D508P0       , H0D                        , Oral Polio at birth day
+M508P0       , H0M                        , Oral Polio at birth month
+Y508P0       , H0Y                        , Oral Polio at birth year
+Q508P1       , H4                         , Oral Polio 1 date
+D508P1       , H4D                        , Oral Polio 1 day
+M508P1       , H4M                        , Oral Polio 1 month
+Y508P1       , H4Y                        , Oral Polio 1 year
+Q508P2       , H6                         , Oral Polio 2 date
+D508P2       , H6D                        , Oral Polio 2 day
+M508P2       , H6M                        , Oral Polio 2 month
+Y508P2       , H6Y                        , Oral Polio 2 year
+Q508P3       , H8                         , Oral Polio 3 date
+D508P3       , H8D                        , Oral Polio 3 day
+M508P3       , H8M                        , Oral Polio 3 month
+Y508P3       , H8Y                        , Oral Polio 3 year
+Q508D1       , H3/H51                     , DPT-HEP.B-HIB (PENTAVALENT) 1 date
+D508D1       , H3D/H51D                   , DPT-HEP.B-HIB (PENTAVALENT) 1 day
+M508D1       , H3M/H51M                   , DPT-HEP.B-HIB (PENTAVALENT) 1 month
+Y508D1       , H3Y/H51Y                   , DPT-HEP.B-HIB (PENTAVALENT) 1 year
+Q508D2       , H5/H52                     , DPT-HEP.B-HIB (PENTAVALENT) 2 date
+D508D2       , H5D/H52D                   , DPT-HEP.B-HIB (PENTAVALENT) 2 day
+M508D2       , H5M/H52M                   , DPT-HEP.B-HIB (PENTAVALENT) 2 month
+Y508D2       , H5Y/H52Y                   , DPT-HEP.B-HIB (PENTAVALENT) 2 year
+Q508D3       , H7/H53                     , DPT-HEP.B-HIB (PENTAVALENT) 3 date
+D508D3       , H7D/H53D                   , DPT-HEP.B-HIB (PENTAVALENT) 3 day
+M508D3       , H7M/H53M                   , DPT-HEP.B-HIB (PENTAVALENT) 3 month
+Y508D3       , H7Y/H53Y                   , DPT-HEP.B-HIB (PENTAVALENT) 3 year
+Q508N1       , H54                        , Pneumococcal 1 date
+D508N1       , H54D                       , Pneumococcal 1 day
+M508N1       , H54M                       , Pneumococcal 1 month
+Y508N1       , H54Y                       , Pneumococcal 1 year
+Q508N2       , H55                        , Pneumococcal 2 date
+D508N2       , H55D                       , Pneumococcal 2 day
+M508N2       , H55M                       , Pneumococcal 2 month
+Y508N2       , H55Y                       , Pneumococcal 2 year
+Q508N3       , H56                        , Pneumococcal 3 date
+D508N3       , H56D                       , Pneumococcal 3 day
+M508N3       , H56M                       , Pneumococcal 3 month
+Y508N3       , H56Y                       , Pneumococcal 3 year
+Q508R1       , H57                        , Rotavirus 1 date
+D508R1       , H57D                       , Rotavirus 1 day
+M508R1       , H57M                       , Rotavirus 1 month
+Y508R1       , H57Y                       , Rotavirus 1 year
+Q508R2       , H58                        , Rotavirus 2 date
+D508R2       , H58D                       , Rotavirus 2 day
+M508R2       , H58M                       , Rotavirus 2 month
+Y508R2       , H58Y                       , Rotavirus 2 year
+Q508R3       , H59                        , Rotavirus 3 date
+D508R3       , H59D                       , Rotavirus 3 day
+M508R3       , H59M                       , Rotavirus 3 month
+Y508R3       , H59Y                       , Rotavirus 3 year
+Q508M1       , H9                         , Measles 1 date
+D508M1       , H9D                        , Measles 1 day
+M508M1       , H9M                        , Measles 1 month
+Y508M1       , H9Y                        , Measles 1 year
+Q508M2       , H9A                        , Measles 2 date
+D508M2       , H9AD                       , Measles 2 day
+M508M2       , H9AM                       , Measles 2 month
+Y508M2       , H9AY                       , Measles 2 year
+Q508V        , H33                        , Most recent Vitamin A date
+D508V        , H33D                       , Most recent Vitamin A day
+M508V        , H33M                       , Most recent Vitamin A month
+Y508V        , H33Y                       , Most recent Vitamin A year
+Q510         , filter                     , Other vaccination not recorded
+Q511         , H10                        , Ever receive vaccinations
+Q512         , in H2                      , BCG vaccination
+Q513         , in H50                     , Hepatitis B vaccination
+Q514         , in H0/H4/H6/H8             , Polio vaccine
+Q515         , in H0/H4/H6/H8             , When first polio was given
+Q516         , in H4/H6/H8                , Number of Polio vaccinations
+Q517         , in H3/H5/H7                , Pentavalent vaccination
+Q518         , in H3/H5/H7                , Number of Pentavalent vaccinations
+Q519         , in H54/H55/H56             , Pneumococcal vaccination
+Q520         , in H54/H55/H56             , Number of Pneumococcal vaccinations
+Q521         , in H57/H58/H59             , Rotavirus vaccination
+Q522         , in H57/H58/H59             , Number of Rotavirus vaccinations
+Q523         , in H9/H9A                  , Measles vaccination
+Q524         , in H9/H9A                  , Number of Measles vaccinations
+Q525A        , H80A                       , Given micronutrient powder in last 7 days
+Q525C        , H80B                       , Given plumpy nuts in last 7 days
+Q525C        , H80C                       , Given plumpy duz in last 7 days
+QWSEC06A     , REC41 (cont.)              , Child health and nutrition
+Q603         , MIDX/BIDX                  , Line number in birth history
+Q605         , H34                        , Vitamin-A dose within last 6 months
+Q606         , H42                        , Taking iron pills/sprinkles or syrup in last 7 days
+Q607         , H43                        , Drugs for intestinal parasites in last 6 months
+Q608         , H11                        , Diarrhea in last 2 weeks
+Q609         , H38                        , Drinking pattern with diarrhea (including breast milk)
+Q610         , H39                        , Eating pattern with diarrhea
+Q611         , in H12A-H12Z               , Sought treatment for diarrhea
+Q612         , in H12A-H12Z               , Where sought treatment
+Q614         , H44A                       , First advice or treatment for diarrhea
+Q615A        , H13                        , Fluid from ORS Packet
+Q615B        , H13B                       , Pre-packaged ORS liquid
+Q615C        , H14                        , Home-made fluid
+Q615D        , H15E                       , Zinc
+Q616         , H21A                       , Anything else to treat diarrhea
+Q617         , H15/H15A-H15M/H20          , Given to treat diarrhea
+Q618         , H22                        , Fever in last 2 weeks
+Q619         , H47                        , Blood taken from finger or heel for testing
+Q620         , H31                        , Cough in last 2 weeks
+Q621         , H31B                       , Breathe faster with short/fast breath
+Q622         , H31C                       , Problem in the chest or blocked or running nose
+Q624         , in H32A-H32Z               , Sought advice/treatment for fever/cough
+Q625         , in H32A-H32Z               , Where sought advice/treatment
+Q627         , H46A                       , First advice or treatment for fever/cough
+Q628         , H46B                       , Days after illness sought advice or treatment for fever/cough
+Q629         , in H37A-H37Z or ML13A-ML13 , Any drugs for fever/cough
+Q630         , in H37A-H37Z or ML13A-ML13 , Drugs for fever/cough
+Q633         , ML20A                      , How long after fever started did first take Artemisinin combination therapy
+Q635         , ML15A (RECML)              , How long after fever started did first take SP/Fansidar
+Q637         , ML16A (RECML)              , How long after fever started did first take Chloroquine
+Q639         , ML17A (RECML)              , How long after fever started did first take Amodiaquine
+Q641         , ML18A (RECML)              , How long after fever started did first take Quinine
+Q643         , ML25A (RECML)              , How long after fever started did first take Artusunate
+Q645         , ML23A (RECML)              , How long after fever started did first take other antimalarial
+QWSEC6B      , REC42                      , Child health and nutrition (cont.)
+Q648         , V416                       , Ever heard of ORS product
+Q650A        , V409                       , Child drank plain water
+Q650B        , V410                       , Child drank juice or juice drinks
+Q650C        , V412C                      , Child drank clear broth
+Q650D        , V411                       , Child drank milk e.g. tinned/powdered/or fresh animal milk
+Q650DN       , V469E                      , Times child drank milk
+Q650E        , V411A                      , Child drank commercially produced infant formula
+Q650EN       , V469F                      , Times child drank commercially produced infant formula
+Q650F        , V413                       , Child drank any other liquids
+Q650G        , V414V                      , Child ate yogurt
+Q650GN       , V469X                      , Times child ate yogurt
+Q650H        , V412A                      , Child ate commercially fortified cereal (baby food)
+Q650I        , V414E                      , Child ate bread/rice/noodles/or foods made from grains
+Q650J        , V414I                      , Child ate pumpkin/carrots/squash or sweet potatoes that are yellow or orange inside
+Q650K        , V414F                      , Child ate white potatoes/white yams/manioc/cassava/or any other foods made from roots
+Q650L        , V414J                      , Child ate any dark green/leafy vegetables
+Q650M        , V414K                      , Child ate ripe mangoes/papayas or other vitamin A rich fruits
+Q650N        , V414L                      , Child ate any other fruits and vegetables
+Q650O        , V414M                      , Child ate liver/kidney/heart or other organ meats
+Q650P        , V414H                      , Child ate any meat such as beef/pork/lamb/goat/chicken or duck
+Q650Q        , V414G                      , Child ate eggs
+Q650R        , V414N                      , Child ate fresh or dried fish or shellfish
+Q650S        , V414O                      , Child ate any foods made from beans/peas/lentils or nuts
+Q650T        , V414P                      , Child ate cheese/yogurt or other milk products
+Q650U        , V414S                      , Child ate any other solid or semi-solid food
+Q652         , M39A (REC41)               , Child ate any solid/semi-solid/or soft food yesterday
+Q653         , M39 (REC41)                , Times child ate any solid/semi-solid/or soft food yesterday
+Q654         , V465                       , Disposal of stools
+QWSEC07      , REC51                      , Marriage and Sexual Activity
+Q701         , in V501/in V502            , Currently in union
+Q702         , in V501/in V502/V535       , Have ever been married or lived with a man
+Q703         , in V501/in V502            , Current marital status
+Q704         , V504                       , Partner living with respondent
+Q705         , V034 (REC01)               , Line number of husband
+Q706         , in V505                    , Husband has other wives
+Q707         , in V505                    , Number of other wives
+Q708         , V506                       , Wife's rank number
+Q709         , V503                       , In union more than once
+Q710M        , V507                       , Time of first union (month)
+Q710Y        , V508                       , Time of first union (year)
+Q711         , V511                       , Age at first union
+Q713         , V525                       , Age at first intercourse
+Q714U        , in V527                    , Time since last intercourse (unit)
+Q714N        , in V527                    , Time since last intercourse (number)
+Q710C        , V509                       , Date of first union (CMC)
+Q710F        , V510                       , Date flag for A710C
+Q713F        , V532                       , Flag for A713
+Q714F        , V530                       , Flag for A714
+QWSEC71_GRP  , REC75 and REC80            , Sexual activity
+Q715U        , V832B/V832C                , Time since last intercourse other person (unit)
+Q715N        , V832B/V832C                , Time since last intercourse other person (number)
+Q716         , V761/V761B/V761C           , Used condom during last intercourse
+Q717         , V833A/V833B/V833C          , Used condom every time in last 12 months
+Q718         , V767A/V767B/V767C          , Relationship with last partner
+Q719U        , V852A/V852B/V852C          , How long ago had first intercourse with this person (unit)
+Q719N        , V852A/V852B/V852C          , How long ago had first intercourse with this person (number)
+Q720         , V853A/V853B/V853C          , Times sexual intercourse during last 12 months
+Q721         , V834A/V834B/V834C          , Age of other partner
+Q722         , filter                     , Intercourse with anyone else in last 12
+Q723         , in V766B                   , Total number of partners last 12 months
+Q726         , V791A                      , Last 12 months had sex because of gifts/cash or anything else
+Q727         , V836                       , Total lifetime number of sexual partners
+Q729         , V323A (REC32)              , Brand name of condom used during last time had sex
+Q730         , V762                       , Source of condoms
+Q731A        , V815A                      , Children < 10 present during interview section 7
+Q731B        , V815B                      , Male adults present during interview section 7
+Q731C        , V815C                      , Female adults present during interview section 7
+QWSEC08      , REC61                      , Fertility Preferences
+Q803         , in V602                    , Desire future child
+Q804         , in V602                    , Desire future child
+Q605U        , in V603/V616               , Time for future birth (unit)
+Q605N        , in V603/V616               , Time for future birth (number)
+Q810         , V3A08A-V3A08Z (REC32)      , Main reason not using to limit or to space
+Q812         , in V362/V364 (REC32)       , Intend to use method any time
+Q813         , V613                       , Ideal number of children
+Q814A        , V627                       , Ideal number of boys
+Q814B        , V628                       , Ideal number of girls
+Q814C        , V629                       , Ideal number of either
+Q815A        , V384A (REC32)              , Heard FP on radio last months
+Q815B        , V384B (REC32)              , Heard FP on TV last months
+Q815C        , V384C (REC32)              , Heard FP newspaper or magazine last months
+Q815D        , V384D (REC32)              , Heard FP on a mobile phone last months
+Q819         , V632                       , Decision maker for using contraception
+Q819         , V632A                      , Decision maker on not using contraception
+Q822         , V621                       , Partner's preferred number of children same as respondent
+QWSEC09      , REC71                      , Husband's and Woman's Background
+Q902         , V730                       , Partner's age
+Q903         , in V701                    , Partner ever attended school
+Q904         , in V701                    , Partner's level of education
+Q905         , V702                       , Partner's highest grade
+Q906         , in V704A                   , Partner worked in last 7 days
+Q907         , in V704A                   , Partner worked in last 12 months
+Q908         , V704/V705                  , Partner's occupation
+Q909         , in V714/V731               , Respondent worked in last 7 days (apart from own housework)
+Q910         , in V714/V731               , probed
+Q911         , V714A/in V731              , Have a job from which she was absent
+Q912         , in V731                    , Worked in last 12 months
+Q913         , V716/V717                  , Respondent's occupation
+Q914         , V719                       , Work for a family member
+Q915         , V732                       , Work through year/seasonally
+Q916         , V741                       , Paid in cash or kind
+Q919         , V739                       , Who usually decides how earnings spent
+Q920         , V746                       , Earns more than partner
+Q921         , V743F                      , Who usually decides on spending husband's/partner's earnings 
+Q922         , V743A                      , Own health care
+Q923         , V743B                      , Making large household purchases
+Q924         , V743D                      , Visits to family
+Q925         , V745A                      , Owns own house alone or jointly
+Q926         , in V745C                   , Respondent has a title deed for any house owned
+Q927         , in V745C                   , Respondent’s name on house title deed
+Q928         , V745B                      , Owns land alone or jointly
+Q929         , in V745D                   , Respondent has a title deed for any land owned 
+Q930         , in V745D                   , Respondent’s name on land title deed
+Q931A        , V811 (REC81)               , Children <10
+Q831B        , V812 (REC81)               , Husband
+Q831C        , V813 (REC81)               , Other males
+Q831D        , V814 (REC81)               , Other females
+Q832A        , V744A                      , Wife goes out
+Q832B        , V744B                      , Wife neglects children
+Q832C        , V744C                      , Wife argues
+Q832D        , V744D                      , Wife refuses sex
+Q832E        , V744E                      , Wife burns food
+QWSEC10      , REC75 and REC80            , HIV/AIDS
+Q1001        , in V750/V751               , Ever heard of AIDS
+Q1002        , V754DP                     , Reduce chance of AIDS by having just one uninfected sex partner
+Q1003        , V754JP                     , Can get AIDS from mosquito bites
+Q1004        , V754CP                     , Reduce chances of AIDS by using condom
+Q1005        , V754WP                     , Can get AIDS by sharing food
+Q1006        , V823                       , Can get AIDS by witchcraft or supernatural means
+Q1007        , V756                       , Can a healthy-looking person have AIDS
+Q1008A       , V744A                      , Aids transmitted during pregnancy
+Q1008B       , V744B                      , Aids transmitted during delivery
+Q1008C       , V744C                      , Aids transmitted by breastfeeding
+Q1010        , V824                       , Drugs to avoid indicator transmission to baby during pregnancy
+Q1014A       , V838A                      , AIDS transmitted mother to child
+Q1014B       , V838B                      , Things to do to prevent AIDS
+Q1014C       , V838C                      , Getting tested for AIDS virus
+Q1015        , V839                       , Offered AIDS test as part of antenatal visit
+Q1016        , in V840/V781               , Tested for AIDS virus as part of antenatal visit
+Q1017        , in V829/V842               , Place were AIDS test was taken as part of antenatal visit
+Q1018        , in V828/V841               , Got results of AIDS test as part of antenatal visit
+Q1019        , V855                       , Received counseling after being tested
+Q1021        , V839A                      , Offered HIV test during delivery in health center
+Q1022        , V840A/V781                 , Tested for HIV during delivery in health center
+Q1023        , V841A/V825                 , Got results of HIV test during delivery in health center
+Q1025        , V843                       , Tested for AIDS virus since test as part of antenatal visit
+Q1026        , in V826A                   , Months ago tested for HIV since test as part of antenatal visit
+Q1027        , V781                       , Ever been tested for HIV
+Q1028        , in V826A                   , Months ago tested for HIV
+Q1029        , in V828                    , Got the test results of the HIV test
+Q1030        , in V829                    , Place of HIV test
+Q1031        , V783                       , Know a place to be tested for AIDS virus
+Q1032        , V784-V784X                 , Place known for AIDS test
+Q1033        , in V856                    , Have heard of test kits for HIV self-testing
+Q1034        , in V856                    , Have ever tested using self-test kits
+Q1035        , V825                       , Would buy vegetables from vendor with AIDS
+Q1036        , V857A                      , Children with HIV should be allowed to go to school with children who do not have HIV
+Q1037        , V857B                      , People don’t test for HIV because they are afraid of other people
+Q1038        , V857C                      , People talk badly about people living or suspected of living with HIV
+Q1039        , V857D                      , People living with HIV lose respect of others
+Q1040        , V777A                      , I would be ashamed if family member has HIV
+Q1041        , V858                       , Fear getting infected when in contact with saliva of person living with HIV
+Q1042        , V785                       , Heard about other STD’s
+Q1045        , V763A                      , Had an STD in last 12 months
+Q1046        , V763C                      , Had abnormal genital discharge in last 12 months
+Q1047        , V763B                      , Had a genital sore or ulcer in last 12 months
+Q1049        , V770                       , Sought advice or treatment for STD
+Q1050        , V770A-V770X                , Place for advice or treatment of STD
+Q1051        , V822                       , Wife is justified to ask use of condom when husband has STD
+Q1052        , V633B (REC61)              , Wife is justified to refuse sex when knows husband has sex with other women
+Q1054        , V850A                      , Can respondent refuse sex
+Q1055        , V850B                      , Can ask partner to use condom
+QWSEC11      , REC42                      , Other Health Issues
+Q1101        , V477                       , Number of injections in last 12 months
+Q1102        , V478                       , Injections administered by a health worker
+Q1103        , V480                       , Syringe and needle from new/unopened package
+Q1104        , V463A/v473AA               , Currently smokes cigarettes
+Q1105        , V464                       , Number of cigarettes smoked in last 24 hours
+Q1106        , in V463A-V463X             , Currently smokes or uses tobacco besides cigarettes
+Q1107        , in V463A-V463X             , Type of tobacco used besides cigarettes
+Q1108A       , V467B                      , Getting permission
+Q1108B       , V467C                      , Getting money needed for treatment
+Q1108C       , V467D                      , Distance/no nearby health facility
+Q1108D       , V467F                      , Not wanting to go alone
+Q1109        , in V481A-V481X             , Covered by any health insurance
+Q1110        , in V481A-V481X             , Type of health insurance
+Q1111H       , V802 (REC81)               , End of interview (hour)
+Q1111M       , V802 (REC81)               , End of interview (minutes)
+QWSECMM      , REC83 and REC84            , Maternal Mortality
+QMM07        , MMC1                       , Mother's children ever born
+QMM11        , MMC2                       , Children born before respond.
+QMM13        , not                        , Column number
+QMM14        , MM1                        , Sex of sibling
+QMM15        , MM2                        , Sibling alive
+QMM16        , MM3                        , Age of sibling
+QMM17        , MM6                        , Years since sibling’s death
+QMM18        , MM7                        , Age of sibling at death
+QMM19        , inMM9                      , Died while pregnant
+QMM20        , inMM9                      , Died during childbirth
+QMM21        , in MM9/in MM12             , Died within 2 months of delivery
+QMM22        , in MM9/in MM12             , Days after pregnancy sister died
+QMM23        , in MM16                    , Death due to violence
+QMM24        , in MM16                    , Death due to an accident
+QMM16C       , MM4                        , CMC date of birth of sibling
+QMM17C       , MM8                        , CMC date of death of sibling
+QWSECDV      , RECDV                      , Domestic Violence
+DV01         , V044 (REC01)               , Privacy obtained
+DV03A        , D101A                      , He is jealous or angry if talk to other men
+DV03B        , D101B                      , He accuses you of being unfaithful
+DV03C        , D101C                      , He does not permit you to meet your female friends
+DV03D        , D101D                      , He tries to limit your contact with your family
+DV03E        , D101E                      , He insists on knowing where you are
+DV03F        , D101F                      , He did not trust you with any money
+DV04A1       , in D103A                   , He say or do something to humiliate you in front of other
+DV04A2       , in D103A                   , How often during the last 12 months
+DV04B1       , in D103B                   , He threaten you or someone close to you with harm
+DV04B2       , in D103B                   , How often during the last 12 months
+DV04C1       , in D103C                   , He insults you or make you feel bad about yourself
+DV04C2       , in D103C                   , How often during the last 12 months
+DV05A1       , in D105A                   , Push you/shake you or throw something at you
+DV05A2       , in D105A                   , How often during the last 12 months
+DV05B1       , in D105B                   , Slap you
+DV05B2       , in D105B                   , How often during the last 12 months
+DV05C1       , in D105J                   , Twist your arm or pull your hair
+DV05C2       , in D105J                   , How often during the last 12 months
+DV05D1       , in D105C                   , Punch you with the fist or with something that could hurt you
+DV05D2       , in D105C                   , How often during the last 12 months
+DV05E1       , in D105D                   , Kick you/drag you or beat you up
+DV05E2       , in D105D                   , How often during the last 12 months
+DV05F1       , in D105E                   , Try to choke you or burn you on purpose
+DV05F2       , in D105E                   , How often during the last 12 months
+DV05G1       , in D105F                   , Threaten or attack you with a knife/gun or any other weapon
+DV05G2       , in D105F                   , How often during the last 12 months
+DV05H1       , in D105H                   , Physically force you to have sexual intercourses
+DV05H2       , in D105H                   , How often during the last 12 months
+DV05I1       , in D105K                   , Physically force you to perform other sexual acts
+DV05I2       , in D105K                   , How often during the last 12 months
+DV05J1       , in D105I                   , Force you with threats/other way to perform other sexual acts
+DV05J2       , in D105I                   , How often during the last 12 months
+DV07         , D109                       , First time it happened
+DV08A        , D110A                      , Ever had cuts/bruises or aches because of husband's act
+DV08B        , D110B                      , Ever had eye injuries/sprains/dislocations or burns
+DV08C        , D110D                      , Ever had deep wounds/broken bones/broken teeth or other serious injury
+DV09         , D112                       , Ever physically hurt husband when he was not hurting you
+DV11         , D112A                      , Times physically hurt husband last 12 months
+DV12         , D113                       , Partner drinks alcohol
+DV13         , D114                       , Times partner gets drunk
+DV15A1       , in D130A                   , Any previous husband/partner ever hit/slap/kick/or do anything else to hurt respondent physically
+DV15A2       , in D130A                   , How long ago hit/slapped/kicked respondent
+DV15B1       , in D130B                   , Any previous husband/partner ever physically to forced respondent have intercourse or perform any other sexual acts
+DV15B2       , in D130B                   , How long ago physically forced respondent to have sexual intercourse
+DV15C1       , in D130C                   , Any previous husband/partner ever humiliate/threaten to hurt/insult or make respondent feel bad
+DV15C2       , in D130C                   , How long ago humiliate/threaten to hurt/insult or made respondent feel bad
+DV16         , in D115B-D115XK            , From age 15 anyone (other than husband/partner) ever hit/slapped/kicked or done anything to hurt respondent physically
+DV17         , in D115B-D115XK            , Person who hurt respondent
+DV18         , D117A                      , Times hit by other than partner last 12 months
+DV20         , in D118A-D118XK            , Ever physically hurt during pregnancy?
+DV21         , in D118A-D118XK            , Person who hurt her during pregnancy
+DV22A        , in D125                    , To ever married respondents (anyone (besides partner) ever forced respondent to have intercourse)
+DV22B        , in D125                    , To never married respondents (anyone ever forced respondent to have intercourse)
+DV23         , D127                       , Person who forced respondent to first sexual activity
+DV24         , D124                       , Anyone (besides partner) forced respondent to have sexual intercourse in past 12 months
+DV25         , D126                       , Age at first forced sexual activity
+DV27         , in D119A-D119XK            , Sought help from someone
+DV28         , in D119A-D119XK            , From whom have you sought help?
+DV29         , D128                       , Ever told anyone about violence
+DV30         , D121                       , Did her father ever beat her mother
+DV31A        , D122A                      , Interrupted interview because of husband's presence
+DV31B        , D122B                      , Interrupted interview because of other adult male's presence
+DV31C        , D122C                      , Interrupted interview because of adult female's presence
+QWSECGC      , RECGC                      , Female Genital Cutting
+GC01         , G100                       , Ever heard of female circumcision
+GC02         , G101                       , Ever heard of genital cutting (probed)
+GC03         , G102                       , Respondent circumcised
+GC04         , G103                       , Flesh removed from genital area
+GC05         , G104                       , Genital area just nicked without removing any flesh
+GC06         , G105                       , Genital area sewn closed
+GC07         , G106                       , Age at circumcision
+GC08         , G107                       , Who performed circumcision
+GC10         , GIDX                       , Line number in birth history of living daughters born in last 5 years
+GC11         , G121                       , Daughter circumcised
+GC12         , G122                       , Age of daughter at circumcision
+GC13         , G123                       , Genital area of daughter sewn closed
+GC14         , G124                       , Who performed circumcision
+GC16         , G118                       , Circumcision is required by religion
+GC17         , G119                       , Circumcision should continue or be stopped
+INDIVIDUAL   , MAN                        , Individual man’s questionnaire
+QMSEC01      , MREC01                     , [Men] Respondent's Background
+QM101H       , in MV801                   , Start of interview (hour)
+QM101M       , in MV801                   , Start of interview (minutes)
+QM102        , MV104                      , Time lived in current place of residence
+QM103        , MV105                      , Previous place place of residence
+QM104        , MV105A                     , Province/State live before move to current place of residence
+QM105M       , MV009                      , Month of birth
+QM105Y       , MV010                      , Year of birth
+QM106        , MV012                      , Current age of respondent
+QM107        , in MV106                   , Ever attended school
+QM108        , in MV106                   , Highest educational level
+QM109        , MV107                      , Highest grade at that level
+QM111        , MV155                      , Sentence read
+QM113        , MV157                      , Reads newspaper or magazine
+QM114        , MV158                      , Listens to radio
+QM115        , MV159                      , Watches TV
+QM116        , MV169A                     , Owns mobile telephone
+QM117        , MV169B                     , Uses mobile telephone for financial transactions
+QM118        , MV170                      , Has bank account for own use
+QM119        , in MV171A                  , Ever use the internet
+QM120        , in MV171A                  , Used internet in last 12 months
+QM121        , MV171B                     , Frequency of using the internet during last month
+QM122        , MV130                      , Religion
+QM123        , MV131                      , Ethnicity
+QM105C       , MV011                      , Date of birth (CMC)
+QM105F       , MV014                      , Date flag for AM105C
+QM106C       , MV012                      , Age of respondent calculated
+QMSEC02      , MREC22                     , [Men] Reproduction
+QM201        , not used                   , Ever fathered any children
+QM202        , not used                   , Sons or daughters living with
+QM203A       , V202                       , Sons at home
+QM203B       , V203                       , Daughters at home
+QM204        , not used                   , Sons or daughters living away
+QM205A       , V204                       , Sons living elsewhere
+QM205B       , V205                       , Daughters living elsewhere
+QM206        , not used                   , Sons or daughters who died
+QM207A       , V206                       , Boys who died
+QM207B       , V207                       , Girls who died
+QM208        , V208                       , Total children ever fathered
+QM210        , MV245                      , Children have same mother
+QM211        , MV212                      , Age at birth of first child
+QM213        , MV247                      , Age of youngest
+QM216        , MV248                      , Antenatal check-ups for the mother
+QM217        , MV249                      , Present during check-ups
+QM218        , MV250                      , Place of birth of youngest
+QM219        , MV252                      , Drinking pattern during diarrhea
+QMSEC3A      , MREC31                     , [Men] Contraceptive Knowledge & Use
+QM3N         , M304A                      , Contraceptive method
+QM301        , MV304                      , Heard of method
+QMSEC3B      , various records            , [Men] Contraceptive Practice
+QM302A       , MV384A                     , on the radio
+QM302B       , MV384B                     , on the television
+QM302C       , MV384C                     , in a newspaper or magazine
+QM302D       , MV384D                     , on mobile phone
+QM303        , MV395                      , Discussed family planning with a health worker or health professional
+QM304        , in MV217                   , Increased chance of woman getting pregnant on certain days
+QM305        , in MV217                   , Days when increased chance of getting pregnant
+QM306        , MV396A                     , Can a woman become pregnant before her period has returned
+QM307A       , MV3B25A                    , Contraception is woman's business/man should not worry
+QM307B       , BV3B25B                    , Women use contraception may become promiscuous
+QMSEC04      , MREC51                     , [Men] Marriage and Sexual Activity
+QM401        , in MV501                   , Currently in union
+QM402        , in MV501                   , Have ever been married or lived with a woman
+QM403        , in MV501                   , Current marital status
+QM404        , MV504                      , Partner living with respondent
+QM405        , in MV505                   , Other partners
+QM406        , in MV505/MV035             , Number of women
+QMSEC41A_GRP , MREC01_GROUP               , Wife/partner listing
+QM407        , MV034                      , Line number of wife/partner
+QM408        , MV034B                     , Age of wife/partner
+QM410        , MV503                      , Times married
+QM411M       , MV507                      , Date of first union (month)
+QM411Y       , MV508                      , Date of first union (year)
+QM412        , MV511                      , Age at first union
+QM414        , MV525                      , Age at first intercourse
+QM415U       , in MV527                   , Time since last intercourse (unit)
+QM415N       , in MV527                   , Time since last intercourse (number)
+QMSEC41B_GRP , to single variables        , Sexual activity
+QM417(1)     , MV761                      , Used condom during last intercourse
+QM418(1)     , MV833A                     , Used condom every time with this person
+QM419(1)     , MV767A                     , Relationship with last partner
+QM420U(1)    , in MV852A                  , Duration of relationship with other person (unit)
+QM420N(1)    , in MV852A                  , Duration of relationship with other person (number)
+QM421(1)     , MV853A                     , Times intercourse during last 12 months
+QM422(1)     , MV834A                     , Age of partner
+QM416U(2)    , in MV832B                  , Last time intercourse with other person  (unit)
+QM416N(2)    , in MV832B                  , Last time intercourse with other person  (number)
+QM417(2)     , MV761B                     , Used condom during last intercourse
+QM418(2)     , MV833B                     , Used condom every time with this person
+QM419(2)     , MV767B                     , Relationship with last partner
+QM420U(2)    , in MV852B                  , Duration of relationship with other person (unit)
+QM420N(2)    , in MV852B                  , Duration of relationship with other person (number)
+QM421(2)     , MV853B                     , Times intercourse during last 12 months with other person
+QM422(2)     , MV834B                     , Age of other person
+QM416U(3)    , in MV832C                  , Last time intercourse with other person (unit)
+QM416N(3)    , in MV832C                  , Last time intercourse with other person (number)
+QM417(3)     , MV761C                     , Used condom during last intercourse
+QM418(3)     , MV833C                     , Used condom every time with this person
+QM419(3)     , MV767C                     , Relationship with last partner
+QM420U(3)    , in MV852C                  , Duration of relationship with other person (unit)
+QM420N(3)    , in MV852C                  , Duration of relationship with other person (number)
+QM421(3)     , MV853C                     , Times intercourse during last 12 months with other person
+QM422(3)     , MV834C                     , Age of other person
+QM423        , not used                   , Sexual intercourse with any other person in last 12 months
+QM424        , MV766B                     , Total number of partners in the last 12 months
+QM427        , in MV793                   , In the past 12 months/paid for sex
+QM428        , in MV793/MV791             , Ever paid anyone in exchange for having sex
+QM429        , MV793A                     , Used condom last paid for sex
+QM430        , MV793B                     , Condom used every time paid for sex
+QM431        , in MV791A                  , In the past 12 months given gifts for sex
+QM432        , in MV791A/MV791B           , Ever given any gifts for sex
+QM433        , MV836                      , Number of lifetime sexual partners
+QM435        , MV323A                     , Brand of condom used during last sex
+QM436        , MV762/MV3B17               , Place obtained condom last time
+QM437        , in MV312                   , Last time had sex/contraception other than condom used
+QM438        , in MV312                   , Used contraception during last intercourse
+QM439        , in MV312/MV307             , Contraceptive method
+QM440        , MV3A00Y                    , Know a place to obtain family planning method
+QM411C       , MV509                      , Date of first union (CMC)
+QM411F       , MV510                      , Date flag for QM411C
+QM412C       , MV511                      , Age at first union (calculated)
+QM414F       , MV532                      , Flag for QM414
+QMSEC05      , MREC61                     , [Men] Fertility Preferences
+QM504        , MV213                      , Wife/partner currently pregnant
+QM505        , in MV602                   , Desire for future birth (wife pregnant)
+QM506U       , in MV603/in MV616          , Time for future birth wife pregnant (unit)
+QM506N       , in MV603/in MV616          , Time for future birth wife pregnant (number)
+QM507        , in MV602                   , Desire for future child (wife not pregnant)
+QM508U       , in MV603/in MV616          , Time for future birth (wife not pregnant) (units)
+QM508N       , in MV603/in MV616          , Time for future birth (wife not pregnant) (number)
+QM509        , MV213                      , Any wife/wives currently pregnant
+QM510        , in MV602                   , Desire for future child (at least 1 wife pregnant) (units)
+QM511U       , in MV603/in MV616          , Time for future birth (at least 1 wife pregnant) (units)
+QM511N       , in MV603/in MV616          , Time for future birth (at least 1 wife pregnant) (number)
+QM512        , in MV602                   , Desire for future child (non of the wives pregnant)
+QM513U       , in MV603/in MV616          , Time for future birth (non of the wives pregnant) (units)
+QM513N       , in MV603/in MV616          , Time for future birth (non of the wives pregnant) (number)
+QM514        , MV613                      , Ideal number of children
+QM515A       , MV627                      , Ideal number of boys
+QM515B       , MV628                      , Ideal number of girls
+QM515C       , MV629                      , Ideal number of either
+QMSEC06      , MREC71                     , [Men] Employment and Gender Roles
+QM601        , in MV714                   , Currently working
+QM602        , in MV714/MV714A            , Has job from which was absent
+QM603        , MV731                      , Worked last 12 months
+QM604        , MV716                      , Occupation
+QM605        , MV732                      , Works seasonally
+QM606        , MV741                      , Paid in cash or kind
+QM609        , MV739                      , Decision maker on using the money earned
+QM610        , MV743A                     , Decision on respondent’s health care
+QM611        , MV743B                     , Decision on large HH purchases
+QM612        , MV745A                     , Owns own house alone or jointly
+QM613        , in MV745C                  , Respondent has a title deed for any house owned
+QM614        , in MV745C                  , Respondent’s name on the title deed for the house
+QM615        , MV745B                     , Owns land alone or jointly
+QM616        , in MV745D                  , Respondent has a title deed for any land owned
+QM617        , in MV745D                  , Respondent’s name is on the title deed for the land
+QM618A       , MV744A                     , going out without telling him
+QM618B       , MV744B                     , neglects children
+QM618C       , MV744C                     , arguing
+QM618D       , MV744D                     , refusing sex
+QM615E       , MV744E                     , burning food
+QMSEC07      , MREC75 and MREC80          , [Men] HIV/AIDS
+QM701        , in MV750/MV751             , Ever heard of AIDS
+QM702        , MV754DP                    , Reduce chance getting AIDS by having just one uninfected sex partner who has no other sex partners
+QM703        , MV754JP                    , Can get AIDS from mosquito bites
+QM704        , MV754CP                    , Reduce chance of AIDS by using condom every time they have sex
+QM705        , MV754WP                    , Can get AIDS by sharing food with someone infected with AIDS virus
+QM706        , MV823                      , Can get AIDS by witchcraft or supernatural means
+QM707        , MV756                      , Possible for healthy-looking person to have AIDS virus
+QM708A       , MV774A                     , pregnancy
+QM708B       , MV774B                     , delivery
+QM708C       , MV774C                     , breastfeeding
+QM710        , MV824                      , Special drugs to avoid AIDS transmission to baby
+QM712        , MV781                      , Ever been tested for AIDS virus
+QM713        , MV826                      , When was last time you were tested
+QM714        , MV828                      , Received results of test
+QM715        , MV829                      , Place for HIV test
+QM716        , MV783                      , Know a place to get tested for AIDS virus
+QM717        , MV784A-MV784X              , Place to get tested for AIDS virus
+QM718        , in MV856                   , Have heard of test kits for HIV self testing
+QM719        , in MV856                   , Have ever tested using self-test kits
+QM720        , MV825                      , Would buy vegetables from vendor with AIDS
+QM721        , MV857A                     , Children with HIV should be allowed to go to school with who do not have HIV
+QM722        , MV857B                     , People don’t test for HIV because they are afraid of reaction of other people
+QM723        , MV857C                     , People talk bad about people living with (or suspected of) living with HIV
+QM724        , MV857D                     , People living with HIV loose respect of other people
+QM725        , MV777A                     , Agree with statement (I would be ashamed if someone in my family had HIV)
+QM726        , MV858                      , Fear getting infected if in contact with saliva of HIV infected person
+QM727        , MV785                      , Heard about other STDs
+QM730        , MV763A                     , Had an STD in last 12 months
+QM731        , MV763C                     , Genital discharge in last 12 months
+QM732        , MV763B                     , Genital sore or ulcer in last 12 months
+QM734        , MV770                      , Seek advice or treatment
+QM735        , MV770A-MV770X              , Place where sought advice or treatment for STD
+QM736        , MV822                      , Justified to ask for use of condoms when husband has a disease
+QM737        , MV633B                     , Right to refuse sex (husband has other partners)
+QMSEC08      , MREC41                     , [Men] Other Health Issues
+M801         , MV483                      , Respondent circumcised
+M802         , MV483A                     , Age at circumcision
+QM803        , MV483B                     , Who performed circumcision
+QM804        , MV483C                     , Place of circumcision
+QM805        , MV477                      , Number of injections in last 12 months
+QM806        , MV478                      , Number of injections by health professional
+QM807        , MV480                      , Syringe or needle from new package
+QM808        , MV463AA                    , Frequency smoking tobacco currently
+QM809        , MV463AC                    , In the past/smoked every day
+QM810        , MV463AD                    , Frequency smoked tobacco in the past
+QM811A       , MV464A                     , Daily frequency of smoking (manufactured cigarettes)
+QM811B       , MV464B                     , Daily frequency of smoking (hand-rolled cigarettes)
+QM811C       , MV464C                     , Daily frequency of smoking (kreteks)
+QM811D       , MV464D                     , Daily frequency of smoking (pipes full of tobacco)
+QM811E       , MV464E                     , Daily frequency of smoking (cigars/cheroots or cigarillos)
+QM811F       , MV464F                     , Daily frequency of smoking (number of water pipe cessions)
+QM811G       , MV464G                     , Daily frequency of smoking (others)
+QM812A       , MV484A                     , Weekly frequency of smoking (manufactured cigarettes)
+QM812B       , MV484B                     , Weekly frequency of smoking (hand-rolled cigarettes)
+QM812C       , MV484C                     , Weekly frequency of smoking (kreteks)
+QM812D       , MV484D                     , Weekly frequency of smoking (pipes full of tobacco)
+QM812E       , MV484E                     , Weekly frequency of smoking (cigars/cheroots or cigarillos)
+QM812F       , MV484F                     , Weekly frequency of smoking (number of water pipe cessions)
+QM812G       , MV484G                     , Weekly frequency of smoking (others)
+QM813        , MV463AB                    , Frequency using smokeless tobacco
+QM814A       , MV464H                     , Daily frequency using smokeless (snuff by mouth)
+QM814B       , MV464I                     , Daily frequency using smokeless (snuff by nose)
+QM814C       , MV464J                     , Daily frequency using smokeless (chewing tobacco)
+QM814D       , MV464K                     , Daily frequency using smokeless (betel quid with tobacco)
+QM814E       , MV464L                     , Daily frequency using smokeless (any others)
+QM815A       , MV484H                     , Weekly frequency using smokeless (snuff by mouth)
+QM815B       , MV484I                     , Weekly frequency using smokeless (snuff by nose)
+QM815C       , MV484J                     , Weekly frequency using smokeless (chewing tobacco)
+QM815D       , MV484K                     , Weekly frequency using smokeless (betel quid with tobacco)
+QM815E       , MV484L                     , Weekly frequency using smokeless (any others)
+QM816        , MV481                      , Health insurance
+QM817        , MV481A-MV481X              , Type of health insurance
+QM818H       , in MV802-MREC01            , End of interview (hour)
+QM818M       , in MV802-MREC01            , End of interview (minutes)
