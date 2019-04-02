@@ -1,0 +1,573 @@
+NAME     ,    LABEL
+mcaseid  , case identification 
+mv000    ,   country code and phase  
+mv001    ,   cluster number  
+mv002    ,   household number    
+mv003    ,   respondent's line number    
+mv004    ,   ultimate area unit  
+mv005    ,   sample weight   
+mv006    ,   month of interview  
+mv007    ,   year of interview   
+mv008    ,   date of interview (cmc) 
+mv009    ,   respondent's month of birth 
+mv010    ,   respondent's year of birth  
+mv011    ,   date of birth (cmc) 
+mv012    ,   current age - respondent    
+mv013    ,   age 5-year groups   
+mv014    ,   completeness of information 
+mv015    ,   result of individual interview  
+mv016    ,   day of interview    
+mv021    ,   primary sampling unit   
+mv022    ,   sample stratum number   
+mv023    ,   sample domain   
+mv024    ,   region  
+mv025    ,   type of place of residence  
+mv026    ,   de facto place of residence 
+mv027    ,   number of visits    
+mv028    ,   interviewer identification  
+mv029    ,   keyer identification    
+mv030    ,   field supervisor    
+mv031    ,   field editor    
+mv032    ,   office editor   
+mv033    ,   ultimate area selection prob.   
+mv034_1  , line numbers of wives/ partners 
+mv034_2  , line numbers of wives/ partners 
+mv034_3  , line numbers of wives/ partners 
+mv034_4  , line numbers of wives/ partners 
+mv034_5  , line numbers of wives/ partners 
+mv034_6  , line numbers of wives/ partners 
+mv034_7  , line numbers of wives/ partners 
+mv034_8  , line numbers of wives/ partners 
+mv034a_1 ,    wife or partner 
+mv034a_2 ,    wife or partner 
+mv034a_3 ,    wife or partner 
+mv034a_4 ,    wife or partner 
+mv034a_5 ,    wife or partner 
+mv034a_6 ,    wife or partner 
+mv034a_7 ,    wife or partner 
+mv034a_8 ,    wife or partner 
+mv034b_1 ,    age of wife/partner 
+mv034b_2 ,    age of wife/partner 
+mv034b_3 ,    age of wife/partner 
+mv034b_4 ,    age of wife/partner 
+mv034b_5 ,    age of wife/partner 
+mv034b_6 ,    age of wife/partner 
+mv034b_7 ,    age of wife/partner 
+mv034b_8 ,    age of wife/partner 
+mv035    ,   number of wives/ partners   
+mv801    ,   time interview started  
+mv802    ,   time interview ended    
+mv803    ,   length of interview in minutes  
+mv101    ,   region  
+mv102    ,   type of place of residence  
+mv103    ,   childhood place of residence    
+mv104    ,   years lived in place of res.    
+mv105    ,   type of place of previous res.  
+mv106    ,   highest educational level   
+mv107    ,   highest year of education   
+mv130    ,   religion    
+mv131    ,   ethnicity   
+mv133    ,   education in single years   
+mv134    ,   de facto place of residence 
+mv135    ,   usual resident or visitor   
+mv136    ,   number of household members 
+mv138    ,   number of eligible men in hh    
+mv149    ,   educational attainment  
+mv150    ,   relationship to household head  
+mv151    ,   sex of household head   
+mv152    ,   age of household head   
+mv155    ,   literacy    
+mv156    ,   ever participated in a literacy program outside of primary  
+mv157    ,   frequency of reading newpaper or magazine   
+mv158    ,   frequency of listening to radio 
+mv159    ,   frequency of watching television    
+mv167    ,   times away from home in last 12 months  
+mv168    ,   away for more than one month    
+mv190    ,   wealth index    
+mv191    ,   wealth index factor score (5 decimals)  
+mv201    ,   total children ever born    
+mv202    ,   sons at home    
+mv203    ,   daughters at home   
+mv204    ,   sons elsewhere  
+mv205    ,   daughters elsewhere 
+mv206    ,   sons who have died  
+mv207    ,   daughters who have died 
+mv212    ,   age of respondent at 1st birth  
+mv213    ,   partner currently pregnant  
+mv217    ,   knowledge of ovulatory cycle    
+mv218    ,   number of living children   
+mv225    ,   current pregnancy wanted    
+mv245    ,   women fathered children with    
+mv246    ,   married to mother when first child was born 
+mv247    ,   age of youngest child   
+mv248    ,   antenatal check-ups for the mother for youngest child   
+mv249    ,   respondent present during check-ups for youngest child  
+mv250    ,   place of birth of youngest child    
+mv251    ,   reason for not delivering youngest child in health facility 
+mv252    ,   drinking pattern when child has diarrhea    
+mv301    ,   knowledge of any method 
+mv302    ,   ever use of any method  
+m304a_01 ,    type of method  
+m304a_02 ,    type of method  
+m304a_03 ,    type of method  
+m304a_04 ,    type of method  
+m304a_05 ,    type of method  
+m304a_06 ,    type of method  
+m304a_07 ,    type of method  
+m304a_08 ,    type of method  
+m304a_09 ,    type of method  
+m304a_10 ,    type of method  
+m304a_11 ,    type of method  
+m304a_12 ,    type of method  
+m304a_13 ,    type of method  
+m304a_14 ,    type of method  
+m304a_15 ,    type of method  
+m304a_16 ,    type of method  
+m304a_17 ,    type of method  
+m304a_18 ,    type of method  
+m304a_19 ,    type of method  
+m304a_20 ,    type of method  
+mv304_01 ,    knows method    
+mv304_02 ,    knows method    
+mv304_03 ,    knows method    
+mv304_04 ,    knows method    
+mv304_05 ,    knows method    
+mv304_06 ,    knows method    
+mv304_07 ,    knows method    
+mv304_08 ,    knows method    
+mv304_09 ,    knows method    
+mv304_10 ,    knows method    
+mv304_11 ,    knows method    
+mv304_12 ,    knows method    
+mv304_13 ,    knows method    
+mv304_14 ,    knows method    
+mv304_15 ,    knows method    
+mv304_16 ,    knows method    
+mv304_17 ,    knows method    
+mv304_18 ,    knows method    
+mv304_19 ,    knows method    
+mv304_20 ,    knows method    
+mv305_01 ,    ever used method    
+mv305_02 ,    ever used method    
+mv305_03 ,    ever used method    
+mv305_04 ,    ever used method    
+mv305_05 ,    ever used method    
+mv305_06 ,    ever used method    
+mv305_07 ,    ever used method    
+mv305_08 ,    ever used method    
+mv305_09 ,    ever used method    
+mv305_10 ,    ever used method    
+mv305_11 ,    ever used method    
+mv305_12 ,    ever used method    
+mv305_13 ,    ever used method    
+mv305_14 ,    ever used method    
+mv305_15 ,    ever used method    
+mv305_16 ,    ever used method    
+mv305_17 ,    ever used method    
+mv305_18 ,    ever used method    
+mv305_19 ,    ever used method    
+mv305_20 ,    ever used method    
+mv307_01 ,    method currently used   
+mv307_02 ,    method currently used   
+mv307_03 ,    method currently used   
+mv307_04 ,    method currently used   
+mv307_05 ,    method currently used   
+mv307_06 ,    method currently used   
+mv307_07 ,    method currently used   
+mv307_08 ,    method currently used   
+mv307_09 ,    method currently used   
+mv307_10 ,    method currently used   
+mv307_11 ,    method currently used   
+mv307_12 ,    method currently used   
+mv307_13 ,    method currently used   
+mv307_14 ,    method currently used   
+mv307_15 ,    method currently used   
+mv307_16 ,    method currently used   
+mv307_17 ,    method currently used   
+mv307_18 ,    method currently used   
+mv307_19 ,    method currently used   
+mv307_20 ,    method currently used   
+mv312    ,   current contraceptive method    
+mv313    ,   current use by method type  
+mv323a   ,  brand of condom used    
+mv325b   ,  cost of condoms last time obtained  
+mv372a   ,  shown condom package    
+mv384a   ,  heard fp on radio last months   
+mv384b   ,  heard fp on tv last months  
+mv384c   ,  heard fp newspaper last months  
+mv395    ,   discuused fp with health worker last few months 
+mv396    ,   can a woman who is breastfeeding get pregnant   
+mv3a09b  , how many condoms did get last time  
+mv3b17   ,  source of condoms   
+mv3b25a  , contraception is woman's business/ man should not worry 
+mv3b25b  , women who use contraception become promiscuous  
+mv463a   ,  smokes cigarettes   
+mv463b   ,  smokes pipe 
+mv463c   ,  cheweing tobacco    
+mv463d   ,  smokes snuff    
+mv463e   ,  smokes country specific 
+mv463f   ,  smokes country specific 
+mv463g   ,  smokes country specific 
+mv463x   ,  smokes other    
+mv463z   ,  smokes nothing  
+mv464    ,   number of cigarettes in last 24 hours   
+mv474    ,   heard of tuberculosis or tb 
+mv474a   ,  tuberculosis spread by: air when coughing or sneezing   
+mv474b   ,  tuberculosis spread by: sharing utensils    
+mv474c   ,  tuberculosis spread by: touching a person with tb   
+mv474d   ,  tuberculosis spread through food    
+mv474e   ,  tuberculosis spread by: sexual contact  
+mv474f   ,  tuberculosis spread by: mosquito bites  
+mv474g   ,  tuberculosis spread by: cs  
+mv474h   ,  tuberculosis spread by: cs  
+mv474i   ,  tuberculosis spread by: cs  
+mv474j   ,  tuberculosis spread by: cs  
+mv474x   ,  tuberculosis spread by: other   
+mv474z   ,  tuberculosis spread by: don't know  
+mv475    ,   can tuberculosis be cured   
+mv476    ,   keep secret when family member gets tb  
+mv477    ,   number of injections in last 12 months  
+mv478    ,   injections administered by a health worker  
+mv479    ,   source for injection by health worker   
+mv480    ,   syinge and needle from new/ unopened package    
+mv481    ,   covered by health insurance 
+mv481a   ,  health insurance type: mutual/community organization    
+mv481b   ,  health insurance type: provided by employer 
+mv481c   ,  health insurance type: social security  
+mv481d   ,  health insurance type: private/commercial purchased 
+mv481e   ,  health insurance type: cs   
+mv481f   ,  health insurance type: cs   
+mv481g   ,  health insurance type: cs   
+mv481h   ,  health insurance type: cs   
+mv481x   ,  health insurance type: other    
+mv482a   ,  arrange care of biological children under age 18    
+mv482b   ,  primary caregiver of children under age 18  
+mv482c   ,  arrange care of non-biological children < 18    
+mv483    ,   is respondent circumcised   
+mv501    ,   current marital status  
+mv502    ,   currently/formerly/never marr.  
+mv503    ,   number of unions    
+mv504    ,   wife/partner lives with respondent  
+mv505    ,   number of wives/ partners   
+mv507    ,   month of first marriage 
+mv508    ,   year of first marriage  
+mv509    ,   date of first marriage (cmc)    
+mv510    ,   completeness of date inform.    
+mv511    ,   age at first marriage   
+mv512    ,   years since first marriage  
+mv513    ,   marital duration (grouped)  
+mv525    ,   age at first intercourse    
+mv527    ,   time since last intercourse 
+mv531    ,   age at first intercourse (imp)  
+mv532    ,   flag for mv531  
+mv535    ,   have ever been married  
+mv536    ,   recent sexual activity  
+mv541    ,   intend to wait until married to have sex    
+mv602    ,   fertility preference    
+mv603    ,   preferred waiting time  
+mv604    ,   preferred waiting time (grpd)   
+mv605    ,   desire for more children    
+mv613    ,   ideal number of children    
+mv614    ,   ideal number of children (grp)  
+mv616    ,   time for future birth   
+mv621    ,   wifes desire for children   
+mv627    ,   ideal number of boys    
+mv628    ,   ideal number of girls   
+mv629    ,   ideal number of either sex  
+mv631    ,   problem if became pregnant  
+mv633a   ,  reason for not having sex: husband has std  
+mv633b   ,  reason for not having sex: husband has other women  
+mv633c   ,  reason for not having sex: recent birth 
+mv633d   ,  reason for not having sex: tired/ mood  
+mv633e   ,  reason for not having sex: cs   
+mv633f   ,  reason for not having sex: cs   
+mv633g   ,  reason for not having sex: cs   
+mv634a   ,  husband has right to: get angry 
+mv634b   ,  husband has right to: refuse financial support  
+mv634c   ,  husband has right to: use force for unwanted sex    
+mv634d   ,  husband has right to: have sex with another women   
+mv714    ,   respondent currently working    
+mv714a   ,  have a job from which respondent was absent 
+mv716    ,   respondent's occupation 
+mv717    ,   respondent's occupation 
+mv719    ,   work for family/ others/ self   
+mv721    ,   works at home or away   
+mv731    ,   worked in last 12 months    
+mv732    ,   employment all year/seasonal    
+mv739    ,   who decides how to spend money  
+mv740    ,   type of land where resp. works  
+mv741    ,   type of earnings for work   
+mv743a   ,  final say on own health care    
+mv743b   ,  final say on making large household purchases   
+mv743c   ,  final say on making household purchases for daily needs 
+mv743d   ,  final say on visits to family or relatives  
+mv743e   ,  final say on food to be cooked each day 
+mv743f   ,  final say on deciding what to do with money wife earns  
+mv743g   ,  final say on deciding how many children to have 
+mv744a   ,  wife beating justified if she goes out without telling him  
+mv744b   ,  wife beating justified if she neglects the children 
+mv744c   ,  wife beating justified if she argues with him   
+mv744d   ,  wife beating justified if she refuses to have sex with him  
+mv744e   ,  wife beating justified if she burns the food    
+mv747a   ,  childbearing is a woman's concern   
+mv747b   ,  important for mother/child health to get assistance at deliv    
+mv750    ,   heard sexual transmit. disease  
+mv751    ,   ever heard of aids  
+mv754bp  , reduce risk of getting aids by not having sex at all    
+mv754cp  , reduce chances of aids by always using condoms during sex   
+mv754dp  , reduce chance of aids: have 1 sex partner with no oth partnr    
+mv754jp  , get aids from mosquito bites    
+mv754wp  , get aids by sharing food with person who has aids   
+mv756    ,   can a healthy person have aids  
+mv761    ,   last intercourse used condom    
+mv761b   ,  intercourse with other woman (1) used condom    
+mv761c   ,  intercourse with other woman (2) used condom    
+mv762aa  , source for condoms: government hospital 
+mv762ab  , source for condoms: government health center/post   
+mv762ac  , source for condoms: family planning clinic  
+mv762ad  , source for condoms: mobile clinic   
+mv762ae  , source for condoms: public field worker 
+mv762af  , source for condoms: other public    
+mv762ag  , source for condoms: public cs   
+mv762ah  , source for condoms: public cs   
+mv762ai  , source for condoms: public cs   
+mv762aj  , source for condoms: private hosp/ clinic    
+mv762ak  , source for condoms: pharmacy    
+mv762al  , source for condoms: private doctor  
+mv762am  , source for condoms: private mobile clinic   
+mv762an  , source for condoms: private field worker    
+mv762ao  , source for condoms: other private   
+mv762ap  , source for condoms: private cs  
+mv762aq  , source for condoms: private cs  
+mv762ar  , source for condoms: private cs  
+mv762as  , source for condoms: shop    
+mv762at  , source for condoms: church  
+mv762au  , source for condoms: friends/ relatives  
+mv762av  , source for condoms: cs  
+mv762aw  , source for condoms: cs  
+mv762ax  , source for condoms: other   
+mv762az  , source for condoms: dk source for condom    
+mv762ba  , source for female condoms: government hospital  
+mv762bb  , source for female condoms: government health center/post    
+mv762bc  , source for female condoms: family planning clinic   
+mv762bd  , source for female condoms: mobile clinic    
+mv762be  , source for female condoms: public field worker  
+mv762bf  , source for female condoms: other public 
+mv762bg  , source for female condoms: public cs    
+mv762bh  , source for female condoms: public cs    
+mv762bi  , source for female condoms: public cs    
+mv762bj  , source for female condoms: private hosp/ clinic 
+mv762bk  , source for female condoms: pharmacy 
+mv762bl  , source for female condoms: private doctor   
+mv762bm  , source for female condoms: private mobile clinic    
+mv762bn  , source for female condoms: private field worker 
+mv762bo  , source for female condoms: other private    
+mv762bp  , source for female condoms: private cs   
+mv762bq  , source for female condoms: private cs   
+mv762br  , source for female condoms: private cs   
+mv762bs  , source for female condoms: shop 
+mv762bt  , source for female condoms: church   
+mv762bu  , source for female condoms: friends/ relatives   
+mv762bv  , source for female condoms: cs   
+mv762bw  , source for female condoms: cs   
+mv762bx  , source for female condoms: other    
+mv762bz  , source for female condoms: dk source for condom 
+mv763a   ,  had any std in last 12 months   
+mv763b   ,  had genital sore/ulcer in last 12 months    
+mv763c   ,  had genital discharge in last 12 months 
+mv763d   ,  last 12 months had cs std   
+mv763e   ,  last 12 months had cs std   
+mv763f   ,  last 12 months had cs std   
+mv763g   ,  last 12 months had cs std   
+mv766a   ,  no. other than wife had sex in last 12 months   
+mv766b   ,  no. had sex including wife in last 12 months    
+mv767a   ,  relationship with last sex partner  
+mv767b   ,  relationship with other sex partner (1) 
+mv767c   ,  relationship with other sex partner (2) 
+mv768a   ,  length of time knows last partner   
+mv768b   ,  length of time knows other partner (1)  
+mv768c   ,  length of time knows other partner (2)  
+mv769    ,   could get a condom  
+mv769a   ,  could get a female condom   
+mv770    ,   seek advice for last disease    
+mv770a   ,  seek advise its: govt hospital  
+mv770b   ,  seek advise its: health center  
+mv770c   ,  seek advise its: public vct center  
+mv770d   ,  seek advise its: cs provincial hospital 
+mv770e   ,  seek advise its: cs district hospital   
+mv770f   ,  seek advise its: cs health post 
+mv770g   ,  seek advise its: cs outreach    
+mv770h   ,  seek advise its: cs military hospital   
+mv770i   ,  seek advise its: cs pmtct site  
+mv770j   ,  seek advise its: other public   
+mv770k   ,  seek advise its: private hospital   
+mv770l   ,  seek advise its: private vct center 
+mv770m   ,  seek advise its: pharmacy   
+mv770n   ,  seek advise its: cs private clinic  
+mv770o   ,  seek advise its: cs private laboratory  
+mv770p   ,  seek advise its: cs std clinic  
+mv770q   ,  seek advise its: cs ngo clinic  
+mv770r   ,  seek advise its: cs private 
+mv770s   ,  seek advise its: other private  
+mv770t   ,  seek advise its: shop   
+mv770u   ,  seek advise its: cs other   
+mv770v   ,  seek advise its: cs other   
+mv770w   ,  seek advise its: cs other   
+mv770x   ,  seek advise other   
+mv774a   ,  aids transmit. during pregnancy 
+mv774b   ,  aids transmit. during delivery  
+mv774c   ,  aids transmit. by breastfeeding 
+mv775    ,   knows someone who has or died of aids   
+mv777    ,   allowed to keep aids infection secret   
+mv778    ,   willing to care for relative with aids  
+mv779    ,   person with aids allowed to continue teaching   
+mv780    ,   should children be taught about condoms 
+mv781    ,   ever been tested for aids   
+mv783    ,   know a place to get aids test   
+mv784a   ,  place for aids test: govt hospital  
+mv784b   ,  place for aids test:health center   
+mv784c   ,  place for aids test: public vct center  
+mv784d   ,  place for aids test: cs provincial hospital 
+mv784e   ,  place for aids test: cs district hospital   
+mv784f   ,  place for aids test: cs health post 
+mv784g   ,  place for aids test: cs outreach    
+mv784h   ,  place for aids test: cs military hospital   
+mv784i   ,  place for aids test: cs pmtct site  
+mv784j   ,  place for aids test: other public   
+mv784k   ,  place for aids test: private hospital   
+mv784l   ,  place for aids test: private vct center 
+mv784m   ,  place for aids test: pharmacy   
+mv784n   ,  place for aids test: mobile clinic  
+mv784o   ,  place for aids test: fieldworker    
+mv784p   ,  place for aids test: cs private clinic  
+mv784q   ,  place for aids test: cs private laboratory  
+mv784r   ,  place for aids test: cs private 
+mv784s   ,  place for aids test: other private  
+mv784t   ,  place for aids test: cs other   
+mv784u   ,  place for aids test: cs other   
+mv784v   ,  place for aids test: cs other   
+mv784x   ,  place for aids test: other  
+mv785    ,   heard about other stds  
+mv793    ,   paid for sex last 12 months 
+mv793a   ,  condom used when paid for sex last 12 months    
+mv793b   ,  condom used every time paid for sex last 12 months  
+mv820    ,   condom used at first sexual intercourse 
+mv822    ,   wife justified to ask husband to use condom if he has std   
+mv823    ,   can get aids by witchcraft or supernatural means    
+mv824    ,   drugs to avoid aids transmission to baby during pregnancy   
+mv825    ,   would buy vegetables from vendor with aids  
+mv826    ,   when was last time you were tested  
+mv827    ,   last test was on your own/ offered or required  
+mv828    ,   did get results for last test   
+mv829    ,   place were last aids test was taken 
+mv832b   ,  time since last intercourse with next to last sexual partner    
+mv832c   ,  time since last intercourse with second to last sexual partn    
+mv833a   ,  used condom every time had sex with last sex partner (last 1    
+mv833b   ,  used condom every time had sex with next to last sex partner    
+mv833c   ,  used condom every time had sex with second to last sex partn    
+mv835a   ,  alcohol consumption last time had sex   
+mv835b   ,  alcohol consumption next to last time had sex   
+mv835c   ,  alcohol consumption second to last time had sex 
+mv836    ,   total lifetime number of sexual partners    
+mv837    ,   heard of drugs to help infected people to live longer   
+mv844    ,   knows someone denied health services because of aids last 12    
+mv845    ,   knows someone denied social events because of aids last 12 m    
+mv846    ,   knows someone verbally abused because of aids last 12 months    
+mv847    ,   people with aids should be ashamed of themselves    
+mv848    ,   people with aids should be blamed for bringing disease to co    
+mv849    ,   children 12-14 should wait for sex until marriage   
+mv851a   ,  young men should wait for sex until marriage    
+mv851b   ,  most young men wait for sex until marriage  
+mv851c   ,  unmarried sexually active men should only having sex with on    
+mv851d   ,  most unmarried sexually active men have only one partner    
+mv851e   ,  married men should only have sex with their wives   
+mv851f   ,  most married men only have sex with their wives 
+mv851g   ,  young women should wait for sex until marriage  
+mv851h   ,  most young women wait for sex until marriage    
+mv851i   ,  unmarried sexually active women should have only one partner    
+mv851j   ,  most unmarried sexually active women have only one partner  
+mv851k   ,  married women should only have sex with their husbands  
+mv851l   ,  most married women only have sex with their husbands    
+mg100    ,   ever heard of female circumcision   
+mg101    ,   ever heard of genital cutting (probed)  
+mg117a   ,  circumcicion benefits: celanliness/hygiene  
+mg117b   ,  circumcicion benefits: social acceptance    
+mg117c   ,  circumcicion benefits: better marriage prospects    
+mg117d   ,  circumcicion benefits: virginity/prevent premarital sex 
+mg117e   ,  circumcicion benefits: more sexual pleasure for men 
+mg117f   ,  circumcicion benefits: religious approval   
+mg117g   ,  circumcicion benefits: cs   
+mg117h   ,  circumcicion benefits: cs   
+mg117i   ,  circumcicion benefits: cs   
+mg117j   ,  circumcicion benefits: cs   
+mg117x   ,  circumcicion benefits: other    
+mg117y   ,  circumcicion benefits: no benefit   
+mg118    ,   circumcision is required by religion    
+mg119    ,   circumcision should continue or be stopped  
+smdomain ,    domain  
+smregion ,    province of residence   
+smdist   ,  district    
+smcom    ,   commune 
+smvill   ,  village 
+sm105    ,   highest educational level   
+sm106    ,   highest grade at that level 
+sm116    ,   activity last 12 months 
+sm120    ,   away for more than one month total  
+sm215    ,   primary care giver of any children  
+sm216    ,   primary care giver of any children under 18 years   
+sm217    ,   arrangements for child care if respondent becomes ill or inc    
+sm315    ,   age of 1st sex partner  
+sm317    ,   first sexual partner younger/ the same age or older 
+sm320a   ,  reason used condom  
+sm320b   ,  reason used condom  
+sm320c   ,  reason used condom  
+sm321a   ,  condom used every time with this partner in last 12 months  
+sm321b   ,  condom used every time with this partner in last 12 months  
+sm321c   ,  condom used every time with this partner in last 12 months  
+sm328    ,   heard of men having sex with men    
+sm329    ,   have had sex with a man 
+sm336    ,   first intercourse against respondent's will 
+sm337    ,   first intercourse physically forced 
+sm338    ,   any intercourse against respondent's will in last 12 months 
+sm339    ,   any intercourse physically forced in last 12 months 
+sm340    ,   knows source of condoms 
+sm341a   ,  source of condoms   
+sm341b   ,  source of condoms   
+sm341c   ,  source of condoms   
+sm341d   ,  source of condoms   
+sm341e   ,  source of condoms   
+sm341f   ,  source of condoms   
+sm341g   ,  source of condoms   
+sm341h   ,  source of condoms   
+sm341i   ,  source of condoms   
+sm341j   ,  source of condoms   
+sm341k   ,  source of condoms   
+sm341l   ,  source of condoms   
+sm341m   ,  source of condoms   
+sm341n   ,  source of condoms   
+sm341x   ,  source of condoms   
+sm408    ,   ways to avoid hiv   
+sm409a   ,  means of avoiding hiv   
+sm409b   ,  means of avoiding hiv   
+sm409c   ,  means of avoiding hiv   
+sm409d   ,  means of avoiding hiv   
+sm409e   ,  means of avoiding hiv   
+sm409f   ,  means of avoiding hiv   
+sm409g   ,  means of avoiding hiv   
+sm409h   ,  means of avoiding hiv   
+sm409i   ,  means of avoiding hiv   
+sm409j   ,  means of avoiding hiv   
+sm409k   ,  means of avoiding hiv   
+sm409l   ,  means of avoiding hiv   
+sm409m   ,  means of avoiding hiv   
+sm409n   ,  means of avoiding hiv   
+sm409w   ,  means of avoiding hiv   
+sm409x   ,  means of avoiding hiv   
+sm409z   ,  means of avoiding hiv   
+sm509j   ,  seek advise its: public std clinic  
+sm509k   ,  seek advise its: public ngo clinic  
+sm515    ,   wife justified to ask husband to use condom if he has std   
+sm334    ,   total number of lifetime sex partners   
+sm322a   ,  relationship with last partner  
+sm322b   ,  relationship with other than partner    
+sm322c   ,  relationship with last partner
